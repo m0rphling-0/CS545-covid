@@ -1,0 +1,3 @@
+,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,FIPS,Incident_Rate,People_Tested,People_Hospitalized,Mortality_Rate,UID,ISO3,Testing_Rate,Hospitalization_Rate
+950,Fujian,China,,26.0789,117.9874,355,1,336.0,18.0,,0.9007866023851814,,,0.28169014084507044,15604,CHN,,
+1090,Fujian,China,,26.0789,117.9874,355,1,339.0,15.0,,0.9007866023851814,,,0.28169014084507044,15604,CHN,,

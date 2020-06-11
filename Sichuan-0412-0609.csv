@@ -1,0 +1,3 @@
+,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,FIPS,Incident_Rate,People_Tested,People_Hospitalized,Mortality_Rate,UID,ISO3,Testing_Rate,Hospitalization_Rate
+999,Sichuan,China,,30.6171,102.7103,561,3,553.0,5.0,,0.6725812252727491,,,0.5347593582887701,15626,CHN,,
+1139,Sichuan,China,,30.6171,102.7103,561,3,554.0,4.0,,0.6725812252727491,,,0.5347593582887701,15626,CHN,,

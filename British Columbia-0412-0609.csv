@@ -1,0 +1,3 @@
+,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,FIPS,Incident_Rate,People_Tested,People_Hospitalized,Mortality_Rate,UID,ISO3,Testing_Rate,Hospitalization_Rate
+940,British Columbia,Canada,,53.7267,-127.6476,1618,78,0.0,1540.0,,31.65772404443273,,,4.8207663782447465,12402,CAN,,
+1080,British Columbia,Canada,,53.7267,-127.6476,1647,81,0.0,1566.0,,32.22513689813393,,,4.918032786885246,12402,CAN,,

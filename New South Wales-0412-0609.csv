@@ -1,0 +1,3 @@
+,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,FIPS,Incident_Rate,People_Tested,People_Hospitalized,Mortality_Rate,UID,ISO3,Testing_Rate,Hospitalization_Rate
+978,New South Wales,Australia,,-33.8688,151.2093,2926,26,1379.0,1521.0,,36.043360433604335,,,0.8885850991114149,3602,AUS,,
+1118,New South Wales,Australia,,-33.8688,151.2093,2926,26,1379.0,1521.0,,36.043360433604335,,,0.8885850991114149,3602,AUS,,

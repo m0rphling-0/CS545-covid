@@ -1,0 +1,3 @@
+,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,FIPS,Incident_Rate,People_Tested,People_Hospitalized,Mortality_Rate,UID,ISO3,Testing_Rate,Hospitalization_Rate
+952,Gibraltar,United Kingdom,,36.1408,-5.3536,132,0,111.0,21.0,,391.7960286129827,,,0.0,292,GIB,,
+1092,Gibraltar,United Kingdom,,36.1408,-5.3536,132,0,120.0,12.0,,391.7960286129827,,,0.0,292,GIB,,

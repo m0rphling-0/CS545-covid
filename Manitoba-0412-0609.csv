@@ -1,0 +1,3 @@
+,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,FIPS,Incident_Rate,People_Tested,People_Hospitalized,Mortality_Rate,UID,ISO3,Testing_Rate,Hospitalization_Rate
+972,Manitoba,Canada,,53.7609,-98.8139,253,5,0.0,248.0,,18.36637950747613,,,1.9762845849802368,12403,CAN,,
+1112,Manitoba,Canada,,53.7609,-98.8139,254,5,0.0,249.0,,18.438973892881176,,,1.9685039370078738,12403,CAN,,

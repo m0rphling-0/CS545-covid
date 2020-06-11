@@ -1,0 +1,3 @@
+,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,FIPS,Incident_Rate,People_Tested,People_Hospitalized,Mortality_Rate,UID,ISO3,Testing_Rate,Hospitalization_Rate
+943,Channel Islands,United Kingdom,,49.3723,-2.3644,484,21,73.0,390.0,,283.87263268406264,,,4.338842975206612,8261,GBR,,
+1083,Channel Islands,United Kingdom,,49.3723,-2.3644,488,21,73.0,394.0,,286.21868749963335,,,4.30327868852459,8261,GBR,,

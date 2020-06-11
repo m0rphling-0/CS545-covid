@@ -1,0 +1,3 @@
+,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,FIPS,Incident_Rate,People_Tested,People_Hospitalized,Mortality_Rate,UID,ISO3,Testing_Rate,Hospitalization_Rate
+1002,St Martin,France,,18.0708,-63.0501,37,2,19.0,16.0,,95.708631883908,,,5.405405405405406,663,MAF,,
+1142,St Martin,France,,18.0708,-63.0501,37,2,19.0,16.0,,95.708631883908,,,5.405405405405406,663,MAF,,

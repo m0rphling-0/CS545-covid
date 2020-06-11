@@ -1,0 +1,3 @@
+,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,FIPS,Incident_Rate,People_Tested,People_Hospitalized,Mortality_Rate,UID,ISO3,Testing_Rate,Hospitalization_Rate
+954,Guadeloupe,France,,16.265,-61.551,148,8,73.0,67.0,,36.9882562286474,,,5.405405405405406,312,GLP,,
+1094,Guadeloupe,France,,16.265,-61.551,148,8,73.0,67.0,,36.9882562286474,,,5.405405405405406,312,GLP,,

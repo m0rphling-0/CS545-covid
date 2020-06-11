@@ -1,0 +1,3 @@
+,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,FIPS,Incident_Rate,People_Tested,People_Hospitalized,Mortality_Rate,UID,ISO3,Testing_Rate,Hospitalization_Rate
+987,Quebec,Canada,,52.9399,-73.5491,17521,688,0.0,16833.0,,205.2198291946964,,,3.9267165116146336,12410,CAN,,
+1127,Quebec,Canada,,52.9399,-73.5491,17950,820,0.0,17130.0,,210.24461697647394,,,4.568245125348191,12410,CAN,,
